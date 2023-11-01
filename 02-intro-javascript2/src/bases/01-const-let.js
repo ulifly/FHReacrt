@@ -1,15 +1,14 @@
+console.log('Bonjour pedazo de zoquetes 😏');
 
-const nombre = 'Ulifly';
+const nombre = 'Ulises';
 const apellido = 'Desentis';
 
-let valorDado = 55;
-
-valorDado = 44;
+let valorDado = 6;
 
 console.log(nombre, apellido, valorDado);
-if (true) {
+
+if ( true ) {
     const nombre = 'Juan';
     console.log(nombre);
-} 
 
-console.log(valorDado);
+}
